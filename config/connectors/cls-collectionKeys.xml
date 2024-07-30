@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<services>
+    <cloudstreamsCollectionKeys serviceName="WmWorkdayProvider.SOAPVS">
+        <servicesKeys>
+            <keyDetails collectionKey="CCS:wday_basic_ccs_jul30" connectorServiceName="CCS:wday_basic_ccs_jul30"/>
+            <keyDetails collectionKey="CCS:wday_oauth_ccs_jul30" connectorServiceName="CCS:wday_oauth_ccs_jul30"/>
+        </servicesKeys>
+    </cloudstreamsCollectionKeys>
+</services>
