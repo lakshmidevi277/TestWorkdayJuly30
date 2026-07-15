@@ -5,5 +5,6 @@
   <value name="node_subtype">unknown</value>
   <value name="node_nsName">CCS</value>
   <value name="node_pkg">TestWorkdayJuly30</value>
-  <value name="is_public">false</value>
+  <value name="is_public">true</value>
+<value name="is_visible">true</value>
 </Values>
